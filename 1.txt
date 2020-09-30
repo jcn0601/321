@@ -1,8 +1,14 @@
-한국방송,#genre#
+지상파채널,#genre#
 KBS1,http://211.178.72.29:9981/stream/channelid/550455077
 KBS2,http://211.178.72.29:9981/stream/channelid/1321319967
 SBS,http://211.178.72.29:9981/stream/channelid/1441027743
 MBC,http://211.178.72.29:9981/stream/channelid/686002049
+JTBC,http://211.178.72.29:9981/stream/channelid/959563048
+MBN,http://211.178.72.29:9981/stream/channelid/63036967
+채널A,http://211.178.72.29:9981/stream/channelid/1783393854
+TV조선,http://211.178.72.29:9981/stream/channelid/635436527
+OBS,http://211.178.72.29:9981/stream/channelid/464071192
+YTN,http://211.178.72.29:9981/stream/channelid/100014799
 各省卫视,#genre#
 湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
 浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
