@@ -1,4 +1,4 @@
-지상파채널,#genre#
+한국방송,#genre#
 KBS1,http://211.178.72.29:9981/stream/channelid/550455077
 KBS2,http://211.178.72.29:9981/stream/channelid/1321319967
 SBS,http://211.178.72.29:9981/stream/channelid/1441027743
@@ -9,6 +9,51 @@ MBN,http://211.178.72.29:9981/stream/channelid/63036967
 TV조선,http://211.178.72.29:9981/stream/channelid/635436527
 OBS,http://211.178.72.29:9981/stream/channelid/464071192
 YTN,http://211.178.72.29:9981/stream/channelid/100014799
+연합뉴스TV,http://211.178.72.29:9981/stream/channelid/850075620
+K스타,http://211.178.72.29:9981/stream/channelid/1511837142
+EBS,http://211.178.72.29:9981/stream/channelid/2134572784
+EBS2,http://211.178.72.29:9981/stream/channelid/1571579397
+아시아N,http://211.178.72.29:9981/stream/channelid/1167312819
+채널차이나,http://211.178.72.29:9981/stream/channelid/1549245238
+텔레노벨라,http://211.178.72.29:9981/stream/channelid/481085845
+IB SPORTS,http://211.178.72.29:9981/stream/channelid/1853615651
+Euro sport,http://211.178.72.29:9981/stream/channelid/227687550
+아시아경제TV,http://211.178.72.29:9981/stream/channelid/763000449
+디즈니채널,http://211.178.72.29:9981/stream/channelid/2071958951
+브라보키즈,http://211.178.72.29:9981/stream/channelid/1995810833
+EBS English,http://211.178.72.29:9981/stream/channelid/799153053
+EBS PLUS1,http://211.178.72.29:9981/stream/channelid/960337228
+EBS PLUS2,http://211.178.72.29:9981/stream/channelid/1766084548
+edu TV,http://211.178.72.29:9981/stream/channelid/543468318
+온스타일,http://211.178.72.29:9981/stream/channelid/96115939
+Fashion N,http://211.178.72.29:9981/stream/channelid/667161623
+OBS W,http://211.178.72.29:9981/stream/channelid/27294435
+SBS MTV,http://211.178.72.29:9981/stream/channelid/809468215
+MBC MUSIC,http://211.178.72.29:9981/stream/channelid/161782471
+GMTV,http://211.178.72.29:9981/stream/channelid/336974348
+FTV,http://211.178.72.29:9981/stream/channelid/1996183533
+FISHING TV,http://211.178.72.29:9981/stream/channelid/302514764
+SkyTravel,http://211.178.72.29:9981/stream/channelid/1905035133
+JTBC4,http://211.178.72.29:9981/stream/channelid/1799304469
+NGC,http://211.178.72.29:9981/stream/channelid/428452083
+YTN 사이언스,http://211.178.72.29:9981/stream/channelid/1671502017
+헬스메디tv,http://211.178.72.29:9981/stream/channelid/1682638143
+아리랑 TV,http://211.178.72.29:9981/stream/channelid/674628058
+MBC NET,http://211.178.72.29:9981/stream/channelid/308884082?profile=pass
+KTV,http://211.178.72.29:9981/stream/channelid/2004243577?profile=pass
+국회방송,http://211.178.72.29:9981/stream/channelid/635972640?profile=pass
+방송대학TV,http://211.178.72.29:9981/stream/channelid/110318323?profile=pass
+복지TV,http://211.178.72.29:9981/stream/channelid/700291354?profile=pass
+CBS,http://211.178.72.29:9981/stream/channelid/703130334?profile=pass
+CTS기독교TV,http://211.178.72.29:9981/stream/channelid/423559950?profile=pass
+CGNTV,http://211.178.72.29:9981/stream/channelid/303716219?profile=pass
+Good TV,http://211.178.72.29:9981/stream/channelid/1320272505?profile=pass
+C채널,http://211.178.72.29:9981/stream/channelid/773771680?profile=pass
+BTN불교TV,http://211.178.72.29:9981/stream/channelid/269576950?profile=pass
+BBS 불교방송,http://211.178.72.29:9981/stream/channelid/1300249659?profile=pass
+가톨릭평화방송,http://211.178.72.29:9981/stream/channelid/1494402648?profile=pass
+STB상생방송,http://211.178.72.29:9981/stream/channelid/1261805215?profile=pass
+WBS원음방송,http://211.178.72.29:9981/stream/channelid/1628305863?profile=pass
 各省卫视,#genre#
 湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
 浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
